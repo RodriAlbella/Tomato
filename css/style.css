@@ -52,6 +52,22 @@ section {
   background-color: blue;
   grid-area: section;
 }
+
+.section-2 {
+  display: flex;
+  justify-content:space-around;
+  align-items: center;
+  background-color: black;
+  height: 500px;
+}
+.caja {
+  text-align:center;
+  align-self: center;
+  height: 100px;
+  width: 100px;
+  background-color: aqua;
+}
+
 aside {
   background-color: rgb(33, 33, 126);
   grid-area: aside;
