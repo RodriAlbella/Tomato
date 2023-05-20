@@ -55,13 +55,13 @@ section {
 
 .section-2 {
   display: flex;
-  justify-content:space-around;
+  justify-content: space-around;
   align-items: center;
   background-color: black;
   height: 500px;
 }
 .caja {
-  text-align:center;
+  text-align: center;
   align-self: center;
   height: 100px;
   width: 100px;
@@ -74,6 +74,6 @@ aside {
 }
 
 footer {
-  background-color: bisque;
+  background-color: rgb(241, 158, 57);
   grid-area: footer;
 }
